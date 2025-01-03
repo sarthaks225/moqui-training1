@@ -1,0 +1,7 @@
+<entity entity-name="MoquiTraining" package="com.moqui.training" persistent="true">
+    <field name="trainingId" type="id" auto-generate="true"/>
+    <field name="trainingName" type="varchar" length="255"/>
+    <field name="trainingDate" type="date"/>
+    <field name="trainingPrice" type="decimal"/>
+    <field name="trainingDuration" type="integer"/>
+</entity>

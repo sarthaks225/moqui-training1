@@ -1,0 +1,6 @@
+<component name="moqui-training" version="1.0.0">
+    <description>Moqui training component</description>
+    <runtime>
+        <!-- You can list any runtime-specific settings here -->
+    </runtime>
+</component>
